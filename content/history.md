@@ -8,4 +8,3 @@ showInMenu: true
 ---
 
 Here the important information about yourself should go.
-
