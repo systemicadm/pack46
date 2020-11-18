@@ -9,7 +9,7 @@ theme: hugo-refresh
 #########################################
 # This options specify where to look for the images used in this config
 # The default value is the "asset" directory of this theme
-# assetDir: "static"
+assetDir: "static"
 
 # Option to specify the default language of the theme
 # I.e., the landing language of your root 
