@@ -11,17 +11,17 @@ showInMenu: true
 
 Cub Scouts is the program provided by Boy Scouts of America for youth of elementary school age (K-5th). It is open to both boys and girls. Boys and girls belong to single- gender grade-level group that meets regularly and participate with the entire unit, or “pack” for larger events.
 Scout Lingo:
-Advancement – The progression that moves the Cub Scouts from rank to rank. 
+Advancement – The progression that moves the Cub Scouts from rank to rank.
 Adventure – Collection of activities around one theme that a den can complete in a few meetings. The yearly award fora rank is based on completing required and elective adventures.
 Akela – Anyone who is a leader to the Cub Scout: a parent, teacher, den leader, Cubmaster, etc.
 Arrow of Light – The highest award or rank a Cub Scout can achieve.
 Blue and Gold Banquet – Anniversary celebration of Boy Scouts of America, held in February.
-Buddy System – Safety system by which a scout is never alone. 
-Chartered Organization – Non-profit org that owns a scout unit. 
-"Class A" Uniform – This is the official uniform of Cub Scouts. 
-"Class B" Activity Shirt– Pack t-shirt for active/dirty situations. 
+Buddy System – Safety system by which a scout is never alone.
+Chartered Organization – Non-profit org that owns a scout unit.
+"Class A" Uniform – This is the official uniform of Cub Scouts.
+"Class B" Activity Shirt– Pack t-shirt for active/dirty situations.
 Council – A council is a geographic service area of BSA.
-Crossover or Bridging – A ceremony to transition from Cub Scouts to Scouts BSA. 
+Crossover or Bridging – A ceremony to transition from Cub Scouts to Scouts BSA.
 Cubmaster – Figurehead/leader of a pack. Runs pack meetings among other things.
 Den – A group of boys or of girls in the same grade. They work together to advance to the next rank of Cub Scouts.
 Denner – A Cub Scout chosen (by vote or appointment) as a temporary youth leader of a den, sort of like a class president for the month.
