@@ -119,7 +119,7 @@ params:
   footer:
     # option to specify the logo in the footer
     # the starting folder is configure in "assetDir" of this file
-    # logo: "/images/cub-scout-logo.png"
+    logo: "/images/cub-scout-logo.png"
     # option to specify your contact email in the footer
     email: 
       link: membership@pack46.org
