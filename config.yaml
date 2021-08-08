@@ -1,6 +1,6 @@
 baseURL: https://pack46.org
 languageCode: en-us
-title: Cub Scout Pack 46 website and blog
+title: Cub Scout Pack 46 website
 theme: hugo-refresh
 # theme: ../..
 
@@ -119,7 +119,7 @@ params:
   footer:
     # option to specify the logo in the footer
     # the starting folder is configure in "assetDir" of this file
-    logo: "/images/refresh-square.svg"
+    logo: "/images/cub-scout-logo.png"
     # option to specify your contact email in the footer
     email: 
       link: membership@pack46.org
