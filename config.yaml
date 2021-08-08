@@ -19,6 +19,7 @@ DefaultContentLanguage: en
 # disableLanguages: ["ru"]
 
 disableKinds: ["sitemap","RSS", "taxonomy"]
+ignoreErrors: ["error-disable-taxonomy"]
 
 # Option to specify that all links will be open in a new tab.
 blackfriday:
