@@ -8,6 +8,7 @@ showInMenu: true
 ---
 
 ## The Cub Scout Pack
+
 The BSA program for K-5th grade is Cub Scouts and is organized into local units called packs
 The pack is made up of Dens organized by grade level.
 The Dens meet once a week.
@@ -21,7 +22,7 @@ The pack is owned by a "chartered organization".
 Chartered organizations include schools, religious
 organizations, service clubs, and other non-profit
 organizations. Our Chartered Organization is Emmanuel United Methodist Church. Chartered Organizations approve all leadership in the pack, provide resources and legal framework for the pack, and assist the pack in following BSA guidelines, policies, and procedures.
-The chartered organization selects a Chartered Organization Representative who serves as the contact person for your pack. Our Chartered Organization Representative is Lew Claycomb. 
+The chartered organization selects a Chartered Organization Representative who serves as the contact person for your pack. Our Chartered Organization Representative is Lew Claycomb.
 
 Cub Scout Pack 46 meets every Monday night at 7pm. Meetings usually last around one hour.  
 We meet at Emmanuel United Methodist Church located at 2732 Martinsburg Pike Stephenson, VA 22656:
